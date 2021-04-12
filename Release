@@ -1,0 +1,8 @@
+Origin: Twix & Furious repo
+Label: Twix & Furious repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: twix & furious dev repo
