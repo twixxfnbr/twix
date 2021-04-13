@@ -26,3 +26,17 @@ Name: Example
 Author: twix & furious repo <liamm.ahlborg@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+
+Package: com.twixrepo.Santiz
+Version: 1.0
+Section: Tweaks, Icon pack
+Maintainer: furious, twix repo <liamm.ahlborg@gmail.com>
+Depends: firmwere (<11.0) ,(<14.4)
+Architecture: iphoneos-arm , ipados-arm
+Filename: ./debs/com.twixrepo.santiz_1.0_iphoneos-arm.deb
+Size: 900
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a icon pack called Santiz, with colorful icons and has over 150 icons! Available for IOS version 11-14.4
+Name: Santiz
+Author: furious & twix <liamm.ahlborg@gmail.com>
+Depiction: https://twixxfnbr.github.io/twix/depictions/?p=com.twixrepo.santiz
